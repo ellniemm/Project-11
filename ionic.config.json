@@ -1,0 +1,7 @@
+{
+  "name": "footerPj",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
